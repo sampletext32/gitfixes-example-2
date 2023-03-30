@@ -397,3 +397,5 @@ FodyWeavers.xsd
 **/.DS_Store
 
 .idea/
+
+gitfixes-example-2/secret.txt
